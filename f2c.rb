@@ -3,7 +3,7 @@ require 'formula'
 class F2c < Formula
   homepage 'http://www.netlib.org/f2c/'
   url 'http://netlib.sandia.gov/cgi-bin/netlib/netlibfiles.tar?filename=netlib/f2c'
-  sha1 '4471b777826e7b97c5dfbb89b8c245043ef7bd1c'
+  sha1 'd79c05b7e80bb8aede84c6332a6a5dc4f33e6430'
   version '20130926'
 
   def install
